@@ -1,0 +1,151 @@
+.setingdikit {
+	font-size: 15px;
+	padding: 0;
+	line-height: 8px;
+	margin: 0;
+	font-variant: small-caps;
+}
+#pembuka h5{
+	letter-spacing: 10px;
+	color: #f20202;
+	font-weight: bolder;
+	font-size: 2.5rem;
+	text-shadow: 1px 0px 36px rgba(26,24,24,1);
+}
+#pembuka p {
+	letter-spacing: 5px;
+	color: #2c07e8;
+	font-size: 1.5rem;
+	text-shadow: 1px 0px 36px rgba(26,24,24,1);
+	font-weight: bold;
+}
+#sejarah {
+	text-align: center;
+	padding-top: 40px;
+}
+.sejarah-judul {
+	color: #318029;
+	text-shadow: 1px 0px 36px rgba(26,24,24,1);
+	border-bottom: 2px dotted;
+}
+.sejarah-isi {
+	color: #2d302d;
+	font-weight: bold;
+	text-shadow: 1px 0px 36px rgba(26,24,24,1);
+}
+#produk {
+	text-align: center;
+	padding-top: 30px;
+}
+.bibit {
+	color: #318029;
+	text-shadow: 1px 0px 36px rgba(26,24,24,1);
+}
+.isian {
+	color: #2d302d;
+	font-weight: bold;
+	text-shadow: -4px 12px 11px rgba(0,0,0,0.73);
+	border-bottom: 2px double;
+}
+#kartu {
+	width: 18rem;
+	margin: 10px;
+}
+.card-img-top {
+	box-shadow: -2px 4px 78px 16px rgba(0,0,0,0.75);
+-webkit-box-shadow: -2px 4px 78px 16px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 78px 16px rgba(0,0,0,0.75);
+}
+.card-title {
+	font-weight: bold;
+	color: #1a4a21;
+}
+.card-text {
+	font-weight: bolder;
+	color: #45140e;
+}
+.card-price {
+	font-weight: bold;
+	color: #f5210a;
+}
+#konsultasi {
+	padding-top: 10px;
+}
+.konsul {
+	font-weight: bolder;
+	font-size: 1.5rem;
+	color: #215421;
+	text-shadow: -1px 5px 6px rgba(0,0,0,0.73);
+}
+.isinyaya {
+	font-weight: bold;
+	color: #45140e;
+}
+.urusanini {
+	font-weight: bold;
+	color: #222422;
+}
+#testimoni {
+    text-align: center;
+    border-bottom: 2px double;
+}
+.judul {
+	color: #05095c;
+	border-bottom: 1px dotted;
+}
+.judul2 {
+	color: #5c050a;
+}
+
+.avatar{
+	width: 100px;
+}
+
+.pernyataan {
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+.nama {
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 20px;
+    color: darkslateblue;
+}
+#kontak h1{
+	color: #05095c;
+}
+.ini{
+	color: #5c050a;
+}
+
+.Asal {
+    color: coral;
+    font-style: italic;
+    font-size: 0.9rem;
+}
+
+#kontak {
+	color: #05095c;
+}
+.ini{
+	color: #5c050a;
+}
+.icon {
+	color: #262625;
+}
+.content {
+	color: #5f6909;
+}
+.content a{
+	text-decoration: none;
+}
+#peta iframe {
+	position: absolute;
+	margin-top: 10px;
+}
+
+#akhiran {
+	font-weight: small-caps;
+	color: #0a400a;
+}
